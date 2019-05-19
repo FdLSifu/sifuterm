@@ -1,2 +1,2 @@
 # sifuterm
-Minimal Terminal
+Minimal Terminal based on VTE library
